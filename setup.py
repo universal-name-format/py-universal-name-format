@@ -6,7 +6,7 @@ with open("README.md", 'r', encoding="utf8") as fh:
 
 setup(
     name="universal-name-format",
-    version="0.1.2",
+    version="0.1.3",
     author="k4ng",
     author_email="yh@k4ng.co",
     description="UNF: Universal Name Format",
