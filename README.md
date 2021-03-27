@@ -10,6 +10,11 @@
 
 `pip3 install universal-name-format-{downloaded version}-py3-none-any.whl`
 
+or it can be installed via pip
+
+`pip3 install universal-name-format`
+
+
 ## Examples and Common Usages
 
 ### Create the model from UNF JSON source
