@@ -1,5 +1,5 @@
 venv/
 
-unf/__pycache__/
-unf/models/__pycache__/
-unf/utils/__pycache__/
+universal_name_format/__pycache__/
+universal_name_format/models/__pycache__/
+universal_name_format/utils/__pycache__/

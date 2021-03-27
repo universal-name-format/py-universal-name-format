@@ -1,5 +1,5 @@
-from unf.models.name import Name
-from unf.models.orders import EASTERN_ORDER, WESTERN_ORDER
+from universal_name_format.models.name import Name
+from universal_name_format.models.orders import EASTERN_ORDER, WESTERN_ORDER
 
 
 def eastern_to_name(name):
