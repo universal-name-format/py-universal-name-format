@@ -5,11 +5,11 @@ with open("README.md", 'r', encoding="utf8") as fh:
     long_description = fh.read()
 
 setup(
-    name="unf",
+    name="universal-name-format",
     version="0.1.1",
     author="k4ng",
     author_email="yh@k4ng.co",
-    description="Universal Name Format: JSON-based personal name format utility package",
+    description="UNF: Universal Name Format",
     long_desription=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/k44ng/universal-name-format",
