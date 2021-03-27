@@ -23,6 +23,13 @@ class Name:
         else:
             return "<Name>"
 
+    def source(self):
+        return {
+            "name": self.get_name(),
+            "order": self.get_order(),
+            "encode": self.get_encode()
+        }
+
     def get_name(self, placeholder=None) -> dict or str:
         if placeholder:
             if placeholder in self.__name:
