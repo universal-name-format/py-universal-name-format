@@ -168,5 +168,5 @@ me = Name({
     "encode": "western"
 })
 me.initial_given_name().prefix("Dr.").full_name()  # "Dr. J. Doe"
-me.initial_given_name(include_middle=True).full_name()  # "Dr. J. Middle Doe"
+me.initial_given_name(include_middle=True).full_name()  # "J. Middle Doe"
 ```
