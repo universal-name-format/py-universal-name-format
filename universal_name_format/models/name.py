@@ -114,6 +114,8 @@ class Name:
 
         self.__encode = encode
 
+        return self
+
     def capital_family_name(self):
         if self.__is_mononym() or self.get_encode() == "eastern":
             return self
